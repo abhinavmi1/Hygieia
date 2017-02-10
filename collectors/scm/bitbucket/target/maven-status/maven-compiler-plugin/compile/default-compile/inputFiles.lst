@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\model\GitRepo.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\Application.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\repository\GitRepoRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\GitClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\DefaultBitbucketServerClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\GitCollectorTask.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\RestOperationsSupplier.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\DefaultBitbucketCloudClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\bitbucket\src\main\java\com\capitalone\dashboard\collector\GitSettings.java

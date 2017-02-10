@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\model\SonarCollector.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\Application.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\collector\SonarClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\collector\SonarSettings.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\repository\SonarCollectorRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\collector\DefaultSonarClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\collector\RestOperationsSupplier.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\repository\SonarProjectRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\collector\SonarCollectorTask.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\build\sonar\src\main\java\com\capitalone\dashboard\model\SonarProject.java

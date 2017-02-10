@@ -1,0 +1,15 @@
+2017-02-10 01:53:25,018 INFO  c.c.dashboard.client.BaseClientTest - Beginning tests for com.capitalone.dashboard.collector.BaseClientTest
+2017-02-10 01:53:25,040 INFO  VersionOneDataFactoryImplTest - Beginning tests for com.capitalone.dashboard.datafactory.versionone.VersionOneDataFactoryImpl
+2017-02-10 01:53:25,061 WARN  VersionOneDataFactoryImplTest - Switching to generic V1 data factory connnection (with no auth). This should eventually be resolved by mocking a V1 response model in testing
+2017-02-10 01:53:25,069 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest
+2017-02-10 01:53:25,081 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest
+2017-02-10 02:08:21,033 INFO  c.c.dashboard.client.BaseClientTest - Beginning tests for com.capitalone.dashboard.collector.BaseClientTest
+2017-02-10 02:08:21,070 INFO  VersionOneDataFactoryImplTest - Beginning tests for com.capitalone.dashboard.datafactory.versionone.VersionOneDataFactoryImpl
+2017-02-10 02:08:21,081 WARN  VersionOneDataFactoryImplTest - Switching to generic V1 data factory connnection (with no auth). This should eventually be resolved by mocking a V1 response model in testing
+2017-02-10 02:08:21,088 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest
+2017-02-10 02:08:21,098 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest
+2017-02-10 02:16:22,312 INFO  c.c.dashboard.client.BaseClientTest - Beginning tests for com.capitalone.dashboard.collector.BaseClientTest
+2017-02-10 02:16:22,334 INFO  VersionOneDataFactoryImplTest - Beginning tests for com.capitalone.dashboard.datafactory.versionone.VersionOneDataFactoryImpl
+2017-02-10 02:16:22,345 WARN  VersionOneDataFactoryImplTest - Switching to generic V1 data factory connnection (with no auth). This should eventually be resolved by mocking a V1 response model in testing
+2017-02-10 02:16:22,352 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest
+2017-02-10 02:16:22,362 INFO  DateUtilTest - Beginning tests for com.capitalone.dashboard.collector.DateUtilTest

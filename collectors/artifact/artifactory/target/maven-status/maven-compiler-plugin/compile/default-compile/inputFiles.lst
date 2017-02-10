@@ -1,0 +1,11 @@
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\Application.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\collector\ArtifactoryCollectorTask.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\collector\RestOperationsSupplier.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\model\ArtifactoryRepo.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\collector\DefaultArtifactoryClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\repository\ArtifactoryRepoRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\model\ArtifactoryCollector.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\repository\ArtifactoryCollectorRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\collector\ArtifactoryClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\collector\ArtifactorySettings.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\artifact\artifactory\src\main\java\com\capitalone\dashboard\util\ArtifactUtil.java

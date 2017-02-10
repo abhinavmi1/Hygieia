@@ -1,0 +1,15 @@
+2017-02-10 01:53:20,747 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 01:53:20,779 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 2
+2017-02-10 01:53:20,785 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 2 pageSize 1
+2017-02-10 01:53:20,800 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 01:53:20,820 INFO  ClientUtilTest - Beginning tests for com.capitalone.dashboard.collector.ClientUtilTest
+2017-02-10 02:08:15,616 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 02:08:15,657 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 2
+2017-02-10 02:08:15,662 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 2 pageSize 1
+2017-02-10 02:08:15,679 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 02:08:15,698 INFO  ClientUtilTest - Beginning tests for com.capitalone.dashboard.collector.ClientUtilTest
+2017-02-10 02:16:16,691 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 02:16:16,720 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 2
+2017-02-10 02:16:16,722 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 2 pageSize 1
+2017-02-10 02:16:16,735 INFO  c.c.d.c.story.StoryDataClientImpl - Loop i 0 pageSize 1
+2017-02-10 02:16:16,751 INFO  ClientUtilTest - Beginning tests for com.capitalone.dashboard.collector.ClientUtilTest

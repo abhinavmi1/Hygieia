@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\datafactory\versionone\VersionOneDataFactoryImpl.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\Application.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\model\FeatureCollector.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\ProjectDataClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\util\DateUtil.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\StoryDataClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\datafactory\versionone\VersionOneDataFactory.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\FeatureSettings.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\repository\FeatureCollectorRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\TeamDataClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\FeatureCollectorTask.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\feature\versionone\src\main\java\com\capitalone\dashboard\collector\BaseClient.java

@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\repository\GitlabGitCollectorRepository.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\Application.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\RestOperationsSupplier.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\model\GitlabGitRepo.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\DefaultGitlabGitClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\GitlabUrlUtility.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\GitlabCommitsResponseMapper.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\GitlabGitClient.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\GitlabSettings.java
+C:\Program Files (x86)\Jenkins\workspace\HygieiaMasterBuild\collectors\scm\gitlab\src\main\java\com\capitalone\dashboard\collecteur\GitlabGitCollectorTask.java
